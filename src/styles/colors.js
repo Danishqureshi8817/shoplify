@@ -23,6 +23,7 @@ export default {
     edit:'#3a88aa',
 
     bestSellingPegination:'#b9977a',
+    
 
 
 

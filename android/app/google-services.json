@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031799104643",
+    "project_id": "shoplify-e14c9",
+    "storage_bucket": "shoplify-e14c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031799104643:android:b65e8ddf126865564ce7b6",
+        "android_client_info": {
+          "package_name": "shoplify.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXP39TJfVTHvWHorjJbzXC5MK0EYy7rBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
